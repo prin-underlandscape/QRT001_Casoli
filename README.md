@@ -1,4 +1,5 @@
-# QRT001_Casoli
+# QRT001_Casoli ([mappa](https://umap.openstreetmap.fr/it/map/qrt001_casoli_1045951))
+QRtag collocati a giugno 2023 con le immagini della loro collocazione (quando disponibile)
 ## QRtag: Antro dell’Ugola
 [<img src='qrtags/mprs0w.png' width='150'/>](qrtags/mprs0w.png) [<img src='/vignettes/3db56816.jpg' width='250'/>](/vignettes/3db56816.jpg) 
 
